@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus!
 **Desenvolvedor Full Stack | Especializando em Performance & Otimização**  
-Sou apaixonado por criar código eficiente e otimizar sistemas. Meu foco é melhorar a performance de aplicações, reduzir tempo de resposta e criar soluções escaláveis, aplicando boas práticas e arquiteturas robustas.
+Atualmente meu foco é me desenvolver cada vez mais como **Back-End**, reduzir tempo de resposta e criar soluções escaláveis, aplicando boas práticas e arquiteturas robustas.
 
 ---
 
